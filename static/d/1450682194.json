@@ -1,1 +1,1 @@
-{"data":{"allMdx":{"nodes":[{"frontmatter":{"title":"SIMD in WebAssembly","subtitle":"tech, hello","date":"11th Feb, 2020","description":"Intro to SIMD and what it means for WebAssembly","image":null,"slug":"simd-in-webassembly"}}]}}}
+{"errors":[{"message":"Field \"image\" must not have a selection since type \"String\" has no subfields.","locations":[{"line":9,"column":15}]}]}
